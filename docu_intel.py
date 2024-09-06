@@ -11,8 +11,7 @@ from docx.shared import Pt
 import fitz  # PyMuPDF  
 import os  
 import cv2  
-import numpy as np
-import pytesseract  
+import numpy as np 
   
 # Azure OpenAI credentials  
 azure_endpoint = "https://gpt-4omniwithimages.openai.azure.com/"  
